@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 extension MagneticView {
     func accessibilityCreateSelectionRotor(withName name: String, usingScene magnet: Magnetic) {
